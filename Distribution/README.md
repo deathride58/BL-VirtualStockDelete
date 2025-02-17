@@ -8,11 +8,11 @@ This mod can be toggled on and off at runtime via the BoneMenu, under the "Virtu
 
 ### BEFORE
 
-![Before removing virtual stock](https://raw.githubusercontent.com/deathride58/refs/head/master/BL-VirtualStockDelete/Media/virtualstockbefore.gif)
+![Before removing virtual stock](https://raw.githubusercontent.com/deathride58/BL-VirtualStockDelete/refs/heads/master/Media/virtualstockbefore.gif)
 
 ### AFTER
 
-![After removing virtual stock](https://raw.githubusercontent.com/deathride58/refs/head/master/BL-VirtualStockDelete/Media/virtualstockafter.gif)
+![After removing virtual stock](https://raw.githubusercontent.com/deathride58/BL-VirtualStockDelete/refs/heads/master/Media/virtualstockafter.gif)
 
 ## Technical details
 
