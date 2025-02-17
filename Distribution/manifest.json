@@ -1,0 +1,10 @@
+{
+    "name": "Virtual_Stock_Delete",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds an option to remove the virtual stock",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.0",
+        "gnonme-BoneLib-3.1.2"
+    ]
+}
